@@ -55,5 +55,9 @@ dvc
 gunicorn
 setuptools
 joblib
+ensure
+pyyaml
+base64
+box
 
 -e .
