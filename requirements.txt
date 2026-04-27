@@ -58,6 +58,7 @@ joblib
 ensure
 pyyaml
 base64
-box
+python-box
+gdown
 
 -e .
